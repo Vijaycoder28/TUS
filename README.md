@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en" >
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -129,7 +130,7 @@ h6 {
                     <button onclick="location.href='https://www.facebook.com/tuservicesoff?mibextid=ZbWKwL'" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">Facebook : @Tuservicesoff</button>
                 </div>
                 <div style="padding-bottom: 30px;">
-                    <button onclick="location.href='#'" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">Telegram : @Theunforeseenservices</button>
+                    <button onclick="location.href='#'" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">Tele : @Theunforeseenservices</button>
                 </div>
                 <div style="padding-bottom: 30px;">
                     <button onclick="location.href='https://instagram.com/tuservices_off?igshid=Yzg5MTU1MDY='" type="button" class="btn btn-outline-light" style="width: 80%; padding-top:10px; padding-bottom:10px; font-weight: 600;">Instagram : @Tuservices_off</button>
